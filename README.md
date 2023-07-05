@@ -7,7 +7,7 @@
 
 ## About Me 🧑‍💻
 
-- 🌟 Software Engineer | Fullstack Developer | Photographer
+- 🌟 Software Engineer | Photographer
 - 😺 Cat Lover
 - 📷 Capturing moments and telling stories through the lens
 - 🌍 Based in [Chile]
