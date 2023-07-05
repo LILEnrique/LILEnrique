@@ -3,21 +3,21 @@
    <h3 align="center">Hi, I'm LILEnrique! 👋</h3>
 </p>
 
-<p align="center">I'm a <strong>software engineer</strong> and <strong>fullstack developer</strong> with a passion for <strong>photography</strong></p>
+<p align="center">I'm a <strong>software engineer</strong> and <strong>fullstack developer</strong> with a passion for <strong>photography</strong>.</p>
 
 ## About Me 🧑‍💻
 
-- 🌟 Software Engineer
-- 😺 Cat Lover
-- 📷 Capturing moments and telling stories through the lens
-- 🌍 Based in Temuco, Chile 
+- 🌟 Software Engineer.
+- 😺 Cat Lover.
+- 📷 Capturing moments and telling stories through the lens.
+- 🌍 Based in Temuco, Chile.
 
 ## Skills 💻
 
-- 🖥️ Frontend: HTML, CSS, JavaScript, React, TailwindCSS
-- 🖧 Backend: Node.js, Python, PHP, Java
-- 💾 Databases: MySQL, MongoDB
-- 🚀 Version Control: Git, GitHub
+- 🖥️ Frontend: HTML, CSS, JavaScript, React, TailwindCSS.
+- 🖧 Backend: Node.js, Python, PHP, Java.
+- 💾 Databases: MySQL, MongoDB.
+- 🚀 Version Control: Git, GitHub.
 
 ## Photography 📷
 
