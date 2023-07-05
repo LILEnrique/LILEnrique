@@ -17,7 +17,6 @@
 - 🖥️ Frontend: HTML, CSS, JavaScript, React, TailwindCSS
 - 🖧 Backend: Node.js, Python, PHP, Java
 - 💾 Databases: MySQL, MongoDB
-- ☁️ Cloud Technologies: AWS, Google Cloud
 - 🚀 Version Control: Git, GitHub
 
 ## Photography 📷
