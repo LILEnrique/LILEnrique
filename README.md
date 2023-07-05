@@ -4,9 +4,6 @@
 </p>
 
 <p align="center">I'm a <strong>software engineer</strong> and <strong>fullstack developer</strong>with a passion for <strong>photography</strong></p>
-# 
-
-I'm a software engineer and fullstack developer with a passion for photography. 
 
 ## About Me 🧑‍💻
 
