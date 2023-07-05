@@ -3,7 +3,7 @@
    <h3 align="center">Hi, I'm LILEnrique! 👋</h3>
 </p>
 
-<p align="center">I'm a <strong>software engineer</strong> and <strong>fullstack developer</strong>with a passion for <strong>photography</strong></p>
+<p align="center">I'm a <strong>software engineer</strong> and <strong>fullstack developer</strong> with a passion for <strong>photography</strong></p>
 
 ## About Me 🧑‍💻
 
