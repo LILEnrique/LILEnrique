@@ -10,7 +10,7 @@
 - 🌟 Software Engineer
 - 😺 Cat Lover
 - 📷 Capturing moments and telling stories through the lens
-- 🌍 Based in [Chile]
+- 🌍 Based in Temuco, Chile 
 
 ## Skills 💻
 
