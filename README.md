@@ -31,7 +31,6 @@ Let's connect and collaborate! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/enriquefcc/)
 - [Portfolio](https://lilenrique.github.io/)
-- [GitHub](https://github.com/LILEnrique)
 
 Feel free to reach out to me via email at [philiphcc@gmail.com].
 
